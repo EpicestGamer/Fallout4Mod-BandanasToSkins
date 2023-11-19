@@ -16,5 +16,5 @@ Uses assets from (and thus requires) [Pride Bandanas](https://www.nexusmods.com/
 ## Build/Install Instructions
 1. Download [Pride Bandanas](https://www.nexusmods.com/fallout4/users/52817151), and extract that to where you want to have the mod installed.
 2. Using [Spriggit](https://github.com/Mutagen-Modding/Spriggit) create a link from the `Plugin` folder of this repository to the esp file you just extracted.
-3. Sync from this folder to the mod **(the left button of Spriggit, it is imperative you get this right.)**
+3. Sync from this folder to the mod **(the left button of Spriggit, it is imperative you get this  correct.)**
 4. Copy the files in the `Assets` folder of this repository to where you've put the rest of your files.
