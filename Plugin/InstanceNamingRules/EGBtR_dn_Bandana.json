@@ -74,7 +74,7 @@
         {
           "Name": {
             "TargetLanguage": "English",
-            "Value": "Blue"
+            "Value": "Patterned Blue"
           },
           "Keywords": [
             "0B973A:Fallout4.esm"
@@ -284,7 +284,7 @@
         {
           "Name": {
             "TargetLanguage": "English",
-            "Value": "Red"
+            "Value": "Patterned Red"
           },
           "Keywords": [
             "0B9741:Fallout4.esm"
@@ -538,6 +538,166 @@
           },
           "Keywords": [
             "003798:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Black"
+          },
+          "Keywords": [
+            "004728:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Blue"
+          },
+          "Keywords": [
+            "004735:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Brown"
+          },
+          "Keywords": [
+            "00472E:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Cyan"
+          },
+          "Keywords": [
+            "004733:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Dark Blue"
+          },
+          "Keywords": [
+            "004734:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Dark Cyan"
+          },
+          "Keywords": [
+            "004732:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Dark Gray"
+          },
+          "Keywords": [
+            "004729:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Dark Green"
+          },
+          "Keywords": [
+            "004730:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Gray"
+          },
+          "Keywords": [
+            "00472A:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Green"
+          },
+          "Keywords": [
+            "004731:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Light Red"
+          },
+          "Keywords": [
+            "00472C:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Pink"
+          },
+          "Keywords": [
+            "004737:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Purple"
+          },
+          "Keywords": [
+            "004736:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Red"
+          },
+          "Keywords": [
+            "00472D:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "White"
+          },
+          "Keywords": [
+            "00472B:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Yellow"
+          },
+          "Keywords": [
+            "00472F:RBPrideBandanas.esp"
           ],
           "Index": 10000
         }

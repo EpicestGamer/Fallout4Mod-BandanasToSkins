@@ -1,0 +1,21 @@
+{
+  "FormKey": "004EEA:RBPrideBandanas.esp",
+  "VersionControl": 12146,
+  "EditorID": "EGBtR_co_Bandana_Skin_Palletted_LightGray",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00473A:RBPrideBandanas.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

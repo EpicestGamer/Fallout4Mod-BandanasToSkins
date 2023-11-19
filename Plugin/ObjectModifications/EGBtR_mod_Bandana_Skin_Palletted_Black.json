@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "004738:RBPrideBandanas.esp",
+  "VersionControl": 12146,
+  "EditorID": "EGBtR_mod_Bandana_Skin_Palletted_Black",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Flat Color: Black Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "000838:RBPrideBandanas.esp",
+  "TargetOmodKeywords": [
+    "00083A:RBPrideBandanas.esp"
+  ],
+  "LooseMod": "004EF1:RBPrideBandanas.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "Keywords",
+      "Record": "004728:RBPrideBandanas.esp",
+      "Value": 673,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "MaterialSwaps",
+      "Record": "004718:RBPrideBandanas.esp",
+      "Value": 673,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "FormKey": "00471A:RBPrideBandanas.esp",
+  "VersionControl": 12146,
+  "EditorID": "EGBtR_mswp_Bandana_Skin_Palletted_Gray",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "EpicestGamer\\SkinnedBandanas\\Palletted.bgsm",
+      "ColorRemappingIndex": 0.15625
+    }
+  ]
+}

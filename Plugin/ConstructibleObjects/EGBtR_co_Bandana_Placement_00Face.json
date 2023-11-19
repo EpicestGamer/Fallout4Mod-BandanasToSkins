@@ -9,7 +9,7 @@
   "Conditions": [
     {
       "MutagenObjectType": "ConditionFloat",
-      "Unknown1": "0x7272EB",
+      "Unknown1": "0x7205E3",
       "Data": {
         "MutagenObjectType": "FunctionConditionData",
         "Function": "IsInRobotWorkbench"
