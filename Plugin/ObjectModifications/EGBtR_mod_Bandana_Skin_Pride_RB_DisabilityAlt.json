@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000854:RBPrideBandanas.esp",
+  "VersionControl": 11971,
+  "EditorID": "EGBtR_mod_Bandana_Skin_Pride_RB_DisabilityAlt",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Disability Pride Design (Alternate)"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "000838:RBPrideBandanas.esp",
+  "TargetOmodKeywords": [
+    "00083A:RBPrideBandanas.esp"
+  ],
+  "LooseMod": "003F6F:RBPrideBandanas.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "Keywords",
+      "Record": "000834:RBPrideBandanas.esp",
+      "Value": 656,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "MaterialSwaps",
+      "Record": "000814:RBPrideBandanas.esp",
+      "Value": 656,
+      "FunctionType": "Add"
+    }
+  ]
+}

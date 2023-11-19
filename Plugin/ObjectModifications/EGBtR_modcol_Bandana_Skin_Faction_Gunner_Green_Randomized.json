@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0027C3:RBPrideBandanas.esp",
+  "MajorRecordFlagsRaw": 128,
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_modcol_Bandana_Skin_Faction_Gunner_Green_Randomized",
+  "Fallout4MajorRecordFlags": [
+    "0x80"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Includes": [
+    {
+      "Mod": "00084E:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00084E:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00084E:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "0027B6:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    }
+  ],
+  "MajorFlags": [
+    "0x80"
+  ]
+}

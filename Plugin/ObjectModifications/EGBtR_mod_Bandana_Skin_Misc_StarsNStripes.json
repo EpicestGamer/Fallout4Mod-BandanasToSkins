@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000840:RBPrideBandanas.esp",
+  "VersionControl": 11971,
+  "EditorID": "EGBtR_mod_Bandana_Skin_Misc_StarsNStripes",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Stars and Stripes Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "000838:RBPrideBandanas.esp",
+  "TargetOmodKeywords": [
+    "00083A:RBPrideBandanas.esp"
+  ],
+  "LooseMod": "003F5D:RBPrideBandanas.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "Keywords",
+      "Record": "24A0CA:Fallout4.esm",
+      "Value": 656,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "MaterialSwaps",
+      "Record": "17E921:Fallout4.esm",
+      "Value": 656,
+      "FunctionType": "Add"
+    }
+  ]
+}

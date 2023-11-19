@@ -1,0 +1,11 @@
+{
+  "FormKey": "002787:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_ap_clothing_Placement",
+  "Color": "#00FFFFFF",
+  "Type": "AttachPoint",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Placement"
+  }
+}

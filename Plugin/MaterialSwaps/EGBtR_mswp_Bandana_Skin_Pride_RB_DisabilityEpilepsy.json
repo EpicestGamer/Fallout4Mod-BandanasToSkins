@@ -1,0 +1,11 @@
+{
+  "FormKey": "000815:RBPrideBandanas.esp",
+  "VersionControl": 11937,
+  "EditorID": "EGBtR_mswp_Bandana_Skin_Pride_RB_DisabilityEpilepsy",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "radbeetle\\Pride Bandanas\\disabilityepilepsybandana.BGSM"
+    }
+  ]
+}

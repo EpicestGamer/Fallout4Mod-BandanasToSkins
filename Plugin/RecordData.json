@@ -1,0 +1,22 @@
+{
+  "SpriggitSource": {
+    "PackageName": "Spriggit.Json.Fallout4",
+    "Version": "0.10.0"
+  },
+  "ModKey": "RBPrideBandanas.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Stats": {
+      "NumRecords": 310,
+      "NextFormID": 16255
+    },
+    "Author": "EpicestGamer",
+    "MasterReferences": [
+      {
+        "Master": "Fallout4.esm",
+        "FileSize": 0
+      }
+    ],
+    "INTV": "0x01000000"
+  }
+}

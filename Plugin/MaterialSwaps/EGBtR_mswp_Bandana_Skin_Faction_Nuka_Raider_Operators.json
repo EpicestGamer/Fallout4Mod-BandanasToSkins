@@ -1,0 +1,11 @@
+{
+  "FormKey": "0027A9:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_mswp_Bandana_Skin_Faction_Nuka_Raider_Operators",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "EpicestGamer\\SkinnedBandanas\\NukaRaiderOperators.bgsm"
+    }
+  ]
+}

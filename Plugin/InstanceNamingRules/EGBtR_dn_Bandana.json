@@ -1,0 +1,593 @@
+{
+  "FormKey": "000800:RBPrideBandanas.esp",
+  "VersionControl": 11937,
+  "EditorID": "EGBtR_dn_Bandana",
+  "Target": [
+    "0x1",
+    "0x4",
+    "0x8",
+    "0x10"
+  ],
+  "RuleSets": [
+    {
+      "Names": [
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Agender Pride"
+          },
+          "Keywords": [
+            "000821:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Androsexual Pride"
+          },
+          "Keywords": [
+            "00082E:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Aromantic Pride"
+          },
+          "Keywords": [
+            "000822:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Asexual Pride"
+          },
+          "Keywords": [
+            "000823:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Bisexual Pride"
+          },
+          "Keywords": [
+            "000824:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Bisexual Heart"
+          },
+          "Keywords": [
+            "000832:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Blue"
+          },
+          "Keywords": [
+            "0B973A:Fallout4.esm"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Demiboy Pride"
+          },
+          "Keywords": [
+            "00082A:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Demigirl Pride"
+          },
+          "Keywords": [
+            "00082B:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Disability Pride"
+          },
+          "Keywords": [
+            "000833:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Disability Pride"
+          },
+          "Keywords": [
+            "000834:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Epilepsy Disability Pride"
+          },
+          "Keywords": [
+            "000835:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Hearing Disability Pride"
+          },
+          "Keywords": [
+            "000837:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Visual Disability Pride"
+          },
+          "Keywords": [
+            "000836:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Genderqueer Pride"
+          },
+          "Keywords": [
+            "00082C:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Gunner's Camo"
+          },
+          "Keywords": [
+            "00081D:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Gunner's Green"
+          },
+          "Keywords": [
+            "00081E:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Gynesexual Pride"
+          },
+          "Keywords": [
+            "00082F:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Intersex Pride"
+          },
+          "Keywords": [
+            "000830:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Jangles"
+          },
+          "Keywords": [
+            "00081B:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Leopard Print"
+          },
+          "Keywords": [
+            "00081A:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Lesbian Pride"
+          },
+          "Keywords": [
+            "000825:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Nonbinary Pride"
+          },
+          "Keywords": [
+            "000826:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Neurodiversity Pride"
+          },
+          "Keywords": [
+            "000831:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Omnisexual Pride"
+          },
+          "Keywords": [
+            "00082D:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Pansexual Pride"
+          },
+          "Keywords": [
+            "000827:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Rainbow Pride"
+          },
+          "Keywords": [
+            "24A0CB:Fallout4.esm"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Red"
+          },
+          "Keywords": [
+            "0B9741:Fallout4.esm"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Skull"
+          },
+          "Keywords": [
+            "00081C:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Stars and Stripes"
+          },
+          "Keywords": [
+            "24A0CA:Fallout4.esm"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Striped"
+          },
+          "Keywords": [
+            "00081F:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Trans Pride"
+          },
+          "Keywords": [
+            "000828:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Atom Cat's"
+          },
+          "Keywords": [
+            "238416:Fallout4.esm"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Brotherhood of Steel"
+          },
+          "Keywords": [
+            "1989C4:Fallout4.esm"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Children of Atom"
+          },
+          "Keywords": [
+            "002790:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Diamond City"
+          },
+          "Keywords": [
+            "002791:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Gunner's Logo"
+          },
+          "Keywords": [
+            "002792:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Institute"
+          },
+          "Keywords": [
+            "23AB95:Fallout4.esm"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Minutemen"
+          },
+          "Keywords": [
+            "23AB93:Fallout4.esm"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Nuka-Cola"
+          },
+          "Keywords": [
+            "002795:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Dirty Nuka-Cola"
+          },
+          "Keywords": [
+            "002796:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Disciples"
+          },
+          "Keywords": [
+            "002797:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Operators"
+          },
+          "Keywords": [
+            "002798:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Pack"
+          },
+          "Keywords": [
+            "002799:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Railroad"
+          },
+          "Keywords": [
+            "23AB94:Fallout4.esm"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Polyamory Pride"
+          },
+          "Keywords": [
+            "003786:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Bear Pride"
+          },
+          "Keywords": [
+            "003792:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Demisexual Pride"
+          },
+          "Keywords": [
+            "003793:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Genderfluid Pride"
+          },
+          "Keywords": [
+            "003794:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Panromantic Pride"
+          },
+          "Keywords": [
+            "003795:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Progress Pride"
+          },
+          "Keywords": [
+            "003796:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Robotgender Pride"
+          },
+          "Keywords": [
+            "003797:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Gay Pride"
+          },
+          "Keywords": [
+            "003798:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
+        }
+      ]
+    },
+    {
+      "Names": [
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Neck"
+          },
+          "Keywords": [
+            "002789:RBPrideBandanas.esp"
+          ],
+          "Index": 1000
+        }
+      ]
+    },
+    {
+      "Names": [
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Bandana"
+          },
+          "Index": 1000
+        }
+      ]
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    }
+  ]
+}

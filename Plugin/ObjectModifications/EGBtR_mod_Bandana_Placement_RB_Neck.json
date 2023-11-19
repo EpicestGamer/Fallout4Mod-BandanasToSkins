@@ -1,0 +1,33 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00278A:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_mod_Bandana_Placement_RB_Neck",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Neck Placement"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "002787:RBPrideBandanas.esp",
+  "TargetOmodKeywords": [
+    "00083A:RBPrideBandanas.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModIntProperty`1",
+      "Property": "AddonIndex",
+      "Value": 2,
+      "Value2": 2
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "Keywords",
+      "Record": "002789:RBPrideBandanas.esp",
+      "Value": 656,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "00080E:RBPrideBandanas.esp",
+  "VersionControl": 11937,
+  "EditorID": "EGBtR_mswp_Bandana_Skin_Pride_RB_Androsexual",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "radbeetle\\Pride Bandanas\\androsexualbandana.BGSM"
+    }
+  ]
+}

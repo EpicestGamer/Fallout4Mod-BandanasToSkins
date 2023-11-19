@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00084A:RBPrideBandanas.esp",
+  "VersionControl": 11971,
+  "EditorID": "EGBtR_mod_Bandana_Skin_Misc_Jangles",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Jangles Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "000838:RBPrideBandanas.esp",
+  "TargetOmodKeywords": [
+    "00083A:RBPrideBandanas.esp"
+  ],
+  "LooseMod": "003F59:RBPrideBandanas.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "Keywords",
+      "Record": "00081B:RBPrideBandanas.esp",
+      "Value": 656,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "MaterialSwaps",
+      "Record": "17E900:Fallout4.esm",
+      "Value": 656,
+      "FunctionType": "Add"
+    }
+  ]
+}

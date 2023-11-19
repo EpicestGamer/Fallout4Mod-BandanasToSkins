@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0037A2:RBPrideBandanas.esp",
+  "VersionControl": 11971,
+  "EditorID": "EGBtR_mod_Bandana_Skin_Pride_EG_Panromantic",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Panromantic Pride Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "000838:RBPrideBandanas.esp",
+  "TargetOmodKeywords": [
+    "00083A:RBPrideBandanas.esp"
+  ],
+  "LooseMod": "003F62:RBPrideBandanas.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "Keywords",
+      "Record": "003795:RBPrideBandanas.esp",
+      "Value": 656,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "MaterialSwaps",
+      "Record": "00378E:RBPrideBandanas.esp",
+      "Value": 656,
+      "FunctionType": "Add"
+    }
+  ]
+}

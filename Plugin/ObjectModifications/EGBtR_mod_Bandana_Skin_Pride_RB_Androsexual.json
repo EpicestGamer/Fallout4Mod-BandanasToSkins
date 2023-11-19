@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00083E:RBPrideBandanas.esp",
+  "VersionControl": 11971,
+  "EditorID": "EGBtR_mod_Bandana_Skin_Pride_RB_Androsexual",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Androsexual Pride Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "000838:RBPrideBandanas.esp",
+  "TargetOmodKeywords": [
+    "00083A:RBPrideBandanas.esp"
+  ],
+  "LooseMod": "003F67:RBPrideBandanas.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "Keywords",
+      "Record": "00082E:RBPrideBandanas.esp",
+      "Value": 656,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "MaterialSwaps",
+      "Record": "00080E:RBPrideBandanas.esp",
+      "Value": 656,
+      "FunctionType": "Add"
+    }
+  ]
+}

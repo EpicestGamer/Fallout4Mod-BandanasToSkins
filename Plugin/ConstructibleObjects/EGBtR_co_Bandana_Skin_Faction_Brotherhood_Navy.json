@@ -1,0 +1,21 @@
+{
+  "FormKey": "002FB3:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_co_Bandana_Skin_Faction_Brotherhood_Navy",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "0027B1:RBPrideBandanas.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

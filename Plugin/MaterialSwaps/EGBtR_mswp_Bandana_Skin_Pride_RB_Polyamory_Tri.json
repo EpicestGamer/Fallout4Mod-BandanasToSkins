@@ -1,0 +1,11 @@
+{
+  "FormKey": "003785:RBPrideBandanas.esp",
+  "VersionControl": 11971,
+  "EditorID": "EGBtR_mswp_Bandana_Skin_Pride_RB_Polyamory_Tri",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "radbeetle\\Pride Bandanas\\polyamtribandana.BGSM"
+    }
+  ]
+}

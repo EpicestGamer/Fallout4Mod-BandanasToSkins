@@ -1,0 +1,15 @@
+{
+  "FormKey": "00278C:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_co_Bandana_Placement_01Neck",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00278A:RBPrideBandanas.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

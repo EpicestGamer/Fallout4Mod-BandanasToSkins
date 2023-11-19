@@ -1,0 +1,11 @@
+{
+  "FormKey": "00378C:RBPrideBandanas.esp",
+  "VersionControl": 11971,
+  "EditorID": "EGBtR_mswp_Bandana_Skin_Pride_EG_Demisexual",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "EpicestGamer\\SkinnedBandanas\\PrideDemisexual.bgsm"
+    }
+  ]
+}

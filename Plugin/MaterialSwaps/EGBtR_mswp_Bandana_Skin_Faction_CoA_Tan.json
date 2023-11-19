@@ -1,0 +1,11 @@
+{
+  "FormKey": "0027A0:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_mswp_Bandana_Skin_Faction_CoA_Tan",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "EpicestGamer\\SkinnedBandanas\\ChildrenOfAtomTan.bgsm"
+    }
+  ]
+}

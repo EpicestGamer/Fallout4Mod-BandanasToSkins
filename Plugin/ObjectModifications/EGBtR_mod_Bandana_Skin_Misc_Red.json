@@ -1,0 +1,28 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000842:RBPrideBandanas.esp",
+  "VersionControl": 11971,
+  "EditorID": "EGBtR_mod_Bandana_Skin_Misc_Red",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Patterned Red Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "000838:RBPrideBandanas.esp",
+  "TargetOmodKeywords": [
+    "00083A:RBPrideBandanas.esp"
+  ],
+  "LooseMod": "003F5B:RBPrideBandanas.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "Keywords",
+      "Record": "0B9741:Fallout4.esm",
+      "Value": 656,
+      "FunctionType": "Add"
+    }
+  ]
+}

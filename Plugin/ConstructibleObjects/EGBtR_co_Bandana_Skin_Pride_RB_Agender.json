@@ -1,0 +1,21 @@
+{
+  "FormKey": "002FC9:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_co_Bandana_Skin_Pride_RB_Agender",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00084C:RBPrideBandanas.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

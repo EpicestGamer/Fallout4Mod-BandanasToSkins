@@ -1,0 +1,21 @@
+{
+  "FormKey": "002FB6:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_co_Bandana_Skin_Faction_CoA_00Tan",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "0027B4:RBPrideBandanas.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

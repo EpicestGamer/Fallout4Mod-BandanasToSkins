@@ -1,0 +1,21 @@
+{
+  "FormKey": "002FE8:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_co_Bandana_Skin_01Misc_Skull",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "000841:RBPrideBandanas.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

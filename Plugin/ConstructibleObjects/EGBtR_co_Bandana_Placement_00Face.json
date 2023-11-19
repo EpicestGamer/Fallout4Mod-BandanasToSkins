@@ -1,0 +1,25 @@
+{
+  "FormKey": "00278B:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_co_Bandana_Placement_00Face",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x7272EB",
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "IsInRobotWorkbench"
+      }
+    }
+  ],
+  "CreatedObject": "002786:RBPrideBandanas.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

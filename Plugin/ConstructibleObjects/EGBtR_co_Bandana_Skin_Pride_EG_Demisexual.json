@@ -1,0 +1,21 @@
+{
+  "FormKey": "00379B:RBPrideBandanas.esp",
+  "VersionControl": 11971,
+  "EditorID": "EGBtR_co_Bandana_Skin_Pride_EG_Demisexual",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00379C:RBPrideBandanas.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

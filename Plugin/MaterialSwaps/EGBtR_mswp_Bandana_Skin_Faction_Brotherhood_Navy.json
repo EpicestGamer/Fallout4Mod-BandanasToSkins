@@ -1,0 +1,11 @@
+{
+  "FormKey": "00279D:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_mswp_Bandana_Skin_Faction_Brotherhood_Navy",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "EpicestGamer\\SkinnedBandanas\\BrotherhoodNavy.bgsm"
+    }
+  ]
+}

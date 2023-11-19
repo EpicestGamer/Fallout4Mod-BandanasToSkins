@@ -1,0 +1,11 @@
+{
+  "FormKey": "0027A3:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_mswp_Bandana_Skin_Faction_Institute_Dark",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "EpicestGamer\\SkinnedBandanas\\InstituteDark.bgsm"
+    }
+  ]
+}

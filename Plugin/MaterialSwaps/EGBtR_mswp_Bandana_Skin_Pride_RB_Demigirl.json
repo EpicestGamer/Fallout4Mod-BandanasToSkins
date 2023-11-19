@@ -1,0 +1,11 @@
+{
+  "FormKey": "00080B:RBPrideBandanas.esp",
+  "VersionControl": 11937,
+  "EditorID": "EGBtR_mswp_Bandana_Skin_Pride_RB_Demigirl",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "radbeetle\\Pride Bandanas\\demigirlbandana.BGSM"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "FormKey": "0027A7:RBPrideBandanas.esp",
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_mswp_Bandana_Skin_Faction_Nuka_Dirty",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "EpicestGamer\\SkinnedBandanas\\NukaDirty.bgsm"
+    }
+  ]
+}

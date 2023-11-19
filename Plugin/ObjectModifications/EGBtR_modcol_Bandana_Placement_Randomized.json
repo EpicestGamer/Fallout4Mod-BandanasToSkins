@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00278D:RBPrideBandanas.esp",
+  "MajorRecordFlagsRaw": 128,
+  "VersionControl": 11938,
+  "EditorID": "EGBtR_modcol_Bandana_Placement_Randomized",
+  "Fallout4MajorRecordFlags": [
+    "0x80"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Includes": [
+    {
+      "Mod": "002786:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "002786:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "002786:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00278A:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    }
+  ],
+  "MajorFlags": [
+    "0x80"
+  ]
+}
