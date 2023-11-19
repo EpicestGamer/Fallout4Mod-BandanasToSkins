@@ -21,14 +21,14 @@
       "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
       "Property": "Keywords",
       "Record": "0B973A:Fallout4.esm",
-      "Value": 672,
+      "Value": 441,
       "FunctionType": "Add"
     },
     {
       "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
       "Property": "MaterialSwaps",
       "Record": "17E8FD:Fallout4.esm",
-      "Value": 673,
+      "Value": 441,
       "FunctionType": "Add"
     }
   ]

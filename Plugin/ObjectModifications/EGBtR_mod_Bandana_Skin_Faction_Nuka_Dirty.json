@@ -21,14 +21,14 @@
       "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
       "Property": "Keywords",
       "Record": "002796:RBPrideBandanas.esp",
-      "Value": 673,
+      "Value": 441,
       "FunctionType": "Add"
     },
     {
       "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
       "Property": "MaterialSwaps",
       "Record": "0027A7:RBPrideBandanas.esp",
-      "Value": 673,
+      "Value": 441,
       "FunctionType": "Add"
     }
   ]

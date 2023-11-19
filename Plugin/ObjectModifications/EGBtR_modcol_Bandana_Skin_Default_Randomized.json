@@ -2,7 +2,7 @@
   "MutagenObjectType": "ArmorModification",
   "FormKey": "001832:RBPrideBandanas.esp",
   "MajorRecordFlagsRaw": 128,
-  "VersionControl": 11937,
+  "VersionControl": 12147,
   "EditorID": "EGBtR_modcol_Bandana_Skin_Default_Randomized",
   "Fallout4MajorRecordFlags": [
     "0x80"
@@ -282,6 +282,134 @@
     },
     {
       "Mod": "0037A8:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "004738:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "004745:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00473E:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "004743:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "004744:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "004742:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "004739:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "004740:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "004741:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00473A:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00473D:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "004747:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "004746:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00473C:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00473B:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00473F:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000842:RBPrideBandanas.esp",
       "DoNotUseAll": true
     }
   ],
