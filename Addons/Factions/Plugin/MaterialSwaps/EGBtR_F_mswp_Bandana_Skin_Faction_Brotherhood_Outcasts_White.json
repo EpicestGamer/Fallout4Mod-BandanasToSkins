@@ -1,0 +1,11 @@
+{
+  "FormKey": "000803:Bandanas to Skins Faction Addon.esl",
+  "VersionControl": 12148,
+  "EditorID": "EGBtR_F_mswp_Bandana_Skin_Faction_Brotherhood_Outcasts_White",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "EpicestGamer\\SkinnedBandanas\\Addons\\Faction\\BOSOutcastsWhite.bgsm"
+    }
+  ]
+}

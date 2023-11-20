@@ -1,0 +1,17 @@
+{
+  "FormKey": "000847:Bandanas to Skins Faction Addon.esl",
+  "VersionControl": 12148,
+  "EditorID": "EGBtR_F_miscmod_Bandana_Skin_Faction_NewCaliforniaRepublic",
+  "PreviewTransform": "248769:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "New California Republic Design"
+  },
+  "Model": {
+    "File": "Props\\ModsPartBox\\ModCrate.nif",
+    "Data": "0x0400000004000000000000000200000001000000A694EAF564647300CCD97AD77FF8EC9664647300CCD97AD76111397664647300CCD97AD771D5D693646473001CDB88C592294F856267736D9716E4B2"
+  },
+  "Keywords": [
+    "135C17:Fallout4.esm"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "FormKey": "000834:Bandanas to Skins Faction Addon.esl",
+  "VersionControl": 12148,
+  "EditorID": "EGBtR_F_co_Bandana_Skin_Faction_Enclave",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "000816:Bandanas to Skins Faction Addon.esl",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

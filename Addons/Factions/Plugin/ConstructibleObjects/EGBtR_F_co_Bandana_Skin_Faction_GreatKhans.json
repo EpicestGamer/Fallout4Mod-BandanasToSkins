@@ -1,0 +1,21 @@
+{
+  "FormKey": "000836:Bandanas to Skins Faction Addon.esl",
+  "VersionControl": 12148,
+  "EditorID": "EGBtR_F_co_Bandana_Skin_Faction_GreatKhans",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "000818:Bandanas to Skins Faction Addon.esl",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

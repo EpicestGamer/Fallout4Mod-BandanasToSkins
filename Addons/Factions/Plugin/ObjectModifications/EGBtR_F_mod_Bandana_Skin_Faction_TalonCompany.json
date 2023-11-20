@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00081C:Bandanas to Skins Faction Addon.esl",
+  "VersionControl": 12148,
+  "EditorID": "EGBtR_F_mod_Bandana_Skin_Faction_TalonCompany",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Talon Company Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "000838:RBPrideBandanas.esp",
+  "TargetOmodKeywords": [
+    "00083A:RBPrideBandanas.esp"
+  ],
+  "LooseMod": "000849:Bandanas to Skins Faction Addon.esl",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "Keywords",
+      "Record": "00082A:Bandanas to Skins Faction Addon.esl",
+      "Value": 583,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "MaterialSwaps",
+      "Record": "00080D:Bandanas to Skins Faction Addon.esl",
+      "Value": 583,
+      "FunctionType": "Add"
+    }
+  ]
+}

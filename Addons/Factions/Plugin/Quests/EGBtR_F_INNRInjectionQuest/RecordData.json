@@ -1,0 +1,41 @@
+{
+  "FormKey": "000800:Bandanas to Skins Faction Addon.esl",
+  "VersionControl": 12148,
+  "EditorID": "EGBtR_F_INNRInjectionQuest",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "EGBtR:InstanceNamingRulesInjector",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "InjectedFromINNR",
+            "Object": "00082D:Bandanas to Skins Faction Addon.esl"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "InjectedIntoINNR",
+            "Object": "000800:RBPrideBandanas.esp"
+          }
+        ]
+      }
+    ],
+    "Versioning": [
+      "Break0"
+    ],
+    "ExtraBindDataVersion": 0,
+    "Script": {
+      "Name": ""
+    }
+  },
+  "Data": {
+    "Flags": [
+      "StartGameEnabled",
+      "StartsEnabled",
+      "RunOnce"
+    ],
+    "Unused": 35
+  },
+  "UnusedConditions": [],
+  "Aliases": []
+}

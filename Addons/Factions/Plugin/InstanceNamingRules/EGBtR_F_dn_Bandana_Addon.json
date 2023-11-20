@@ -1,0 +1,184 @@
+{
+  "FormKey": "00082D:Bandanas to Skins Faction Addon.esl",
+  "VersionControl": 12148,
+  "EditorID": "EGBtR_F_dn_Bandana_Addon",
+  "Target": [
+    "0x1",
+    "0x4",
+    "0x8",
+    "0x10"
+  ],
+  "RuleSets": [
+    {
+      "Names": [
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Classic Brotherhood"
+          },
+          "Keywords": [
+            "00081F:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Brotherhood Outcast"
+          },
+          "Keywords": [
+            "000820:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Caesar's Legion"
+          },
+          "Keywords": [
+            "000821:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Chinese Remnants"
+          },
+          "Keywords": [
+            "000822:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Crimson Caravan"
+          },
+          "Keywords": [
+            "000823:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Enclave"
+          },
+          "Keywords": [
+            "000824:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Followers of the Apocalypse"
+          },
+          "Keywords": [
+            "000825:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Great Khans"
+          },
+          "Keywords": [
+            "000826:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Mojave Express"
+          },
+          "Keywords": [
+            "000827:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "New California Republic"
+          },
+          "Keywords": [
+            "000828:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Reilly's Rangers"
+          },
+          "Keywords": [
+            "000829:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Talon Company"
+          },
+          "Keywords": [
+            "00082A:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "The Family"
+          },
+          "Keywords": [
+            "00082B:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Yes Man"
+          },
+          "Keywords": [
+            "00082C:Bandanas to Skins Faction Addon.esl"
+          ],
+          "Index": 1000
+        }
+      ]
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    }
+  ]
+}

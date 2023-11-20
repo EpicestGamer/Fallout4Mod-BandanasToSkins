@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00081B:Bandanas to Skins Faction Addon.esl",
+  "VersionControl": 12148,
+  "EditorID": "EGBtR_F_mod_Bandana_Skin_Faction_ReillysRangers",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Reilly's Rangers Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "000838:RBPrideBandanas.esp",
+  "TargetOmodKeywords": [
+    "00083A:RBPrideBandanas.esp"
+  ],
+  "LooseMod": "000848:Bandanas to Skins Faction Addon.esl",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "Keywords",
+      "Record": "000829:Bandanas to Skins Faction Addon.esl",
+      "Value": 583,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "MaterialSwaps",
+      "Record": "00080C:Bandanas to Skins Faction Addon.esl",
+      "Value": 583,
+      "FunctionType": "Add"
+    }
+  ]
+}

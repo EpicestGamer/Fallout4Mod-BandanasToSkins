@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00081A:Bandanas to Skins Faction Addon.esl",
+  "VersionControl": 12148,
+  "EditorID": "EGBtR_F_mod_Bandana_Skin_Faction_NewCaliforniaRepublic",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "New California Republic Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "000838:RBPrideBandanas.esp",
+  "TargetOmodKeywords": [
+    "00083A:RBPrideBandanas.esp"
+  ],
+  "LooseMod": "000847:Bandanas to Skins Faction Addon.esl",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "Keywords",
+      "Record": "000828:Bandanas to Skins Faction Addon.esl",
+      "Value": 583,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "MaterialSwaps",
+      "Record": "00080B:Bandanas to Skins Faction Addon.esl",
+      "Value": 583,
+      "FunctionType": "Add"
+    }
+  ]
+}

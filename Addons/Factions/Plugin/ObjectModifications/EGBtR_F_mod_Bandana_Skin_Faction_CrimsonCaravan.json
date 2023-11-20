@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000815:Bandanas to Skins Faction Addon.esl",
+  "VersionControl": 12148,
+  "EditorID": "EGBtR_F_mod_Bandana_Skin_Faction_CrimsonCaravan",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Crimson Caravan Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "000838:RBPrideBandanas.esp",
+  "TargetOmodKeywords": [
+    "00083A:RBPrideBandanas.esp"
+  ],
+  "LooseMod": "000842:Bandanas to Skins Faction Addon.esl",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "Keywords",
+      "Record": "000823:Bandanas to Skins Faction Addon.esl",
+      "Value": 583,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty`1",
+      "Property": "MaterialSwaps",
+      "Record": "000806:Bandanas to Skins Faction Addon.esl",
+      "Value": 583,
+      "FunctionType": "Add"
+    }
+  ]
+}

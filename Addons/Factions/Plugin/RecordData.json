@@ -7,19 +7,24 @@
   "GameRelease": "Fallout4",
   "ModHeader": {
     "Flags": [
-      "Master",
       "Light"
     ],
     "Stats": {
-      "NextFormID": 1
+      "NumRecords": 83,
+      "NextFormID": 4072
     },
     "Author": "EpicestGamer",
     "Description": "A Bandanas to Skins addon for various facrtions that appear throughout the Fallout universe.",
     "MasterReferences": [
       {
+        "Master": "Fallout4.esm",
+        "FileSize": 0
+      },
+      {
         "Master": "RBPrideBandanas.esp",
         "FileSize": 0
       }
-    ]
+    ],
+    "INTV": "0x01000000"
   }
 }
