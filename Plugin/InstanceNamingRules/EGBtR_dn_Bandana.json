@@ -700,6 +700,16 @@
             "00472F:RBPrideBandanas.esp"
           ],
           "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Vault-Tec"
+          },
+          "Keywords": [
+            "00569C:RBPrideBandanas.esp"
+          ],
+          "Index": 10000
         }
       ]
     },

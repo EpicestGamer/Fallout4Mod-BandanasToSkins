@@ -1,0 +1,34 @@
+{
+  "FormKey": "0065D5:RBPrideBandanas.esp",
+  "VersionControl": 12148,
+  "EditorID": "EGBtR_INNRInjectionsQuest_Example",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "EGBtR:InstanceNamingRulesInjector",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "InjectedIntoINNR",
+            "Object": "000800:RBPrideBandanas.esp"
+          }
+        ]
+      }
+    ],
+    "Versioning": [
+      "Break0"
+    ],
+    "ExtraBindDataVersion": 0,
+    "Script": {
+      "Name": ""
+    }
+  },
+  "Data": {
+    "Flags": [
+      "RunOnce"
+    ],
+    "Unused": 48
+  },
+  "UnusedConditions": [],
+  "Aliases": []
+}

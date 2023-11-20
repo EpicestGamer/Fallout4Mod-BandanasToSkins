@@ -1,0 +1,21 @@
+{
+  "FormKey": "005E39:RBPrideBandanas.esp",
+  "VersionControl": 12147,
+  "EditorID": "EGBtR_co_Bandana_Skin_Faction_VaultTec_Yellow",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00569E:RBPrideBandanas.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

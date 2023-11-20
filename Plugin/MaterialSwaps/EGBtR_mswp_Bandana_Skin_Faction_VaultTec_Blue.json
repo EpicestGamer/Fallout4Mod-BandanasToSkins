@@ -1,0 +1,11 @@
+{
+  "FormKey": "00569A:RBPrideBandanas.esp",
+  "VersionControl": 12147,
+  "EditorID": "EGBtR_mswp_Bandana_Skin_Faction_VaultTec_Blue",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DogGear\\bandanaRed.BGSM",
+      "ReplacementMaterial": "EpicestGamer\\SkinnedBandanas\\VaultTecBlue.bgsm"
+    }
+  ]
+}
