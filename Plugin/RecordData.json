@@ -6,11 +6,15 @@
   "ModKey": "RBPrideBandanas.esp",
   "GameRelease": "Fallout4",
   "ModHeader": {
+    "Flags": [
+      "Master"
+    ],
     "Stats": {
       "NumRecords": 390,
       "NextFormID": 22170
     },
     "Author": "EpicestGamer",
+    "Description": "Bandanas to Skins adds a skin system to the existing bandanas of the Commonwealth, as well as several faction and pride themed skins.",
     "MasterReferences": [
       {
         "Master": "Fallout4.esm",

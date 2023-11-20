@@ -1,0 +1,25 @@
+{
+  "SpriggitSource": {
+    "PackageName": "Spriggit.Json.Fallout4",
+    "Version": "0.10.0"
+  },
+  "ModKey": "Bandanas to Skins Support Addon.esl",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Master",
+      "Light"
+    ],
+    "Stats": {
+      "NextFormID": 1
+    },
+    "Author": "EpicestGamer",
+    "Description": "A Bandanas to Skins addon adding various skins to show support for different causes.",
+    "MasterReferences": [
+      {
+        "Master": "RBPrideBandanas.esp",
+        "FileSize": 0
+      }
+    ]
+  }
+}
